@@ -9,3 +9,4 @@ This repository is a C#-based web automation project designed to showcase my ski
 - **Reporting Tool:** Allure  
 - **Design Pattern:** Page Object Model (POM)  
 - **Utilities:** WebDriverWait
+- **IDE:** Visual Studio
