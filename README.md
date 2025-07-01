@@ -1,2 +1,11 @@
 # WebAutomationCSharp
-This repository contains a C#-based web automation project designed to streamline and validate interactions with modern web applications. Built with clean, maintainable code and best practices in test automation, this project showcases how to automate browser workflows efficiently using industry-standard tools.
+This repository is a C#-based web automation project designed to showcase my skills with automating modern web applications using clean, maintainable, and scalable code.
+
+**Tech Stack:**
+Language: C#
+Automation Framework: Selenium WebDriver
+Test Framework: NUnit
+Build Tool: .NET Core SDK
+Reporting Tool: Allure
+Methodology: Page Object Model (POM) pattern
+Others: WebDriverWait
